@@ -179,4 +179,4 @@ async def gasto_ask(ctx):
 # ===============================
 # START BOT
 # ===============================
-bot.run(DISCORD_TOKEN)
+#bot.run(DISCORD_TOKEN)
