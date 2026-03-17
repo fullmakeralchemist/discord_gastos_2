@@ -49,7 +49,7 @@ sheet = client_gs.open("Bot_gastos").sheet1
 # ===============================
 # DISCORD BOT SETUP
 # ===============================
-DISCORD_TOKEN = st.secrets["DISCORD_TOKEN"]
+DISCORD_TOKEN = st.secrets["DISCORD_TOKEN_TOM"]
 
 intents = discord.Intents.default()
 intents.message_content = True
